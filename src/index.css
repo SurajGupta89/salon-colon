@@ -1,0 +1,193 @@
+.box{
+  min-height: 40px;
+  background-image:linear-gradient(88.58deg, #ffdd9d -11.75%, #7e5b33 -2.38%, #a37e56 3.86%, #ffdd9d 13.23%, #fff2cd 38.2%, #ffdd9d 55.37%, #e7bf88 67.86%, #7e5b33 91.27%, #a37e56 95.95%, #e7bf88 100.64% 113.13%, #fff2cd 131.86%, #a37e56 142.78%);
+  text-align: center;
+  align-content: center;
+}
+.head{
+  background-color: black;
+  min-height: 60px;
+}
+.home{
+  padding-top: 150px;
+}
+.icons{
+  color: white;
+  font-size: 35px;
+  text-align: end;  
+}
+.ic{
+  padding-right: 10px;
+  border-right: 1px solid grey;
+}
+#button{
+  background:linear-gradient(21.8deg, #e7bf88 14.29%, #fff2cd 43.8%, #e7bf88 54.46%, #ffdd9d 62.82%, #e7bf88 85.71%);
+  border: 2px solid #e7bf88;
+  color:black;
+  border-radius: 10px;
+}
+.a{
+  font-weight: bold;
+  font-size: 18px;
+  font-family: poppins , sans-serif;
+}
+#row1{
+  background-color: white;
+}
+#row2{
+  display: none;
+}
+@media only screen and (max-width:600px){
+  #row1{
+    display: none;
+  }
+  #row2{
+    display: block;
+  }
+  .home{
+    padding-top: 230px;
+  }
+} 
+.footer{
+  min-height: 50px;
+  background-color: black;
+  padding-top: 50px;
+}
+.foot{
+  min-height: 100px;
+  border: 1px solid grey;
+  background-color: rgb(39, 39, 39);
+  border-radius: 10px;
+  align-content: center;
+}
+.icon{
+  color:white;
+  font-size: 40px;
+}
+/* .fimg{
+  height:100%;
+} */
+.ft{
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  padding-left: 30px;
+}
+.ul{
+  color: rgb(180, 179, 179);
+  list-style-type: none;
+  text-transform:capitalize ;
+}
+.pr{
+  font-family: rocgrotesk-regular, sans-serif;
+  text-align: center;
+  font-size: clamp(20px , 2vw , 35px);
+}
+#buton{
+  font-size: 22px;
+  background: linear-gradient(21.8deg, #e7bf88 14.29%, #fff2cd 43.8%, #e7bf88 54.46%, #ffdd9d 62.82%, #e7bf88 85.71%);
+  color:black;
+  border:2px solid #e7bf88;
+  border-radius: 10px;
+}
+#btn{
+   border-radius: 5px;
+   width:120px;
+}
+#card{
+  border: 3px solid #e7bf88;
+}
+#bd{
+  background-color: black;
+  color: white;
+  text-align: left;
+}
+#ct{
+  color:#e7bf88;
+  font-size: 20px;
+  padding: 10px;  
+}
+.filter{
+  font-weight: bold;
+}
+#dropdown-basic{
+  background-color: transparent;
+  border: 2px solid white;
+  color:black;
+}
+#bride{
+  min-height: 450px;
+  width: 99%;
+}
+.test{
+  display: flex;
+justify-content: space-between;
+align-items: center;
+border-radius: 20px;
+background:linear-gradient(21.8deg, #e7bf88 14.29%, #fff2cd 43.8%, #e7bf88 54.46%, #ffdd9d 62.82%, #e7bf88 85.71%);
+}
+#card2{
+  background-color: black;
+}
+.test1{
+  display: flex;
+justify-content: space-between;
+align-items: center;
+border-radius: 20px;
+}
+#make{
+  min-height: 200px;
+  width: 50%;
+}
+#make2{
+  min-height: 320px;
+  width: 100%;
+}
+#model{
+  width: 100%;
+}
+#cbox{
+  height: 100%;
+  width: 100%;
+  min-height: 500px;
+  border: 18px solid #e7bf88;
+  border-radius: 20px;
+  padding-top: 40px;
+  align-content: center;
+}
+.cp{
+  font-family: rocgrotesk-regular, sans-serif;
+  text-align: center;
+  font-size: clamp(20px , 2vw , 22px);
+}
+.cp2{
+font-family: rocgrotesk-regular, sans-serif;
+  text-align: center;
+  font-size: clamp(20px , 2vw , 32px);
+  font-weight: 600;
+  color: #c9a777;
+}
+.para{
+   font-family: rocgrotesk-regular, sans-serif;
+  text-align: center;
+  font-size: clamp(20px , 1vw , 10px);
+  padding: 50px;
+  line-height: 2;
+}
+.b1{
+  border-right: 1px solid grey;
+}
+.table td, .table th {
+  border: 1px solid #dee2e6 !important;
+}
+.ic {
+  font-size: 30px;
+  color: white;
+  cursor: pointer;
+}
+
+/* Optional hover effect */
+.ic:hover {
+  color: #d4af37; /* goldish */
+  transition: 0.3s;
+}

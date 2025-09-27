@@ -1,0 +1,63 @@
+body {
+  background-color: #ffffff;
+  font-family: 'Segoe UI', sans-serif;
+}
+.heading-text {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.salon-card {
+  background-color: #000000;
+  border-radius: 12px;
+  padding: 15px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.salon-card .card-title {
+  color: #ffffff;
+  font-size: 1.1rem;
+}
+
+.salon-card .card-text p {
+  margin-bottom: 6px;
+  color: #ffffff;
+  font-size: 0.95rem;
+}
+
+.icon {
+  margin-right: 8px;
+  color: #ffffff;
+}
+
+.gold-btn {
+  background: linear-gradient(90deg, #d4af37 0%, #e0c97f 100%);
+  border: none;
+  color: black;
+  font-weight: bold;
+  padding: 6px 14px;
+  border-radius: 20px;
+  transition: all 0.3s ease;
+}
+
+.gold-btn:hover {
+  opacity: 0.85;
+  color: black;
+}
+
+.divider {
+  border-top: 1px solid #999;
+  margin: 10px 0;
+}
+.locator-form {
+  background-color: #000000;
+  border-radius: 16px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+  color: white;
+}
+.bb{
+    height: 370px;
+}
+.ccc{
+  padding-top: 150px;
+}
