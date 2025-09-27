@@ -86,7 +86,7 @@
 //             <Nav.Link as={Link} to="/" onClick={handleClose}>Services</Nav.Link>
 //             <Nav.Link as={Link} to="/shop" onClick={handleClose}>Shop</Nav.Link>
 //             <Nav.Link as={Link} to="/bridal" onClick={handleClose}>Bridal</Nav.Link>
-//             <Nav.Link as={Link} to="/runway-rewards" onClick={handleClose}>Runway Rewards</Nav.Link>
+//             <Nav.Link as={Link} to="/RunwayRewads" onClick={handleClose}>Runway Rewards</Nav.Link>
 //             <Nav.Link as={Link} to="/offer" onClick={handleClose}>Offer</Nav.Link>
 //             <Nav.Link as={Link} to="/french" onClick={handleClose}>Franchise</Nav.Link>
 //             <Nav.Link as={Link} to="/locator" onClick={handleClose}>Salon Locator</Nav.Link>
