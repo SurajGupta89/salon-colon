@@ -168,7 +168,7 @@ function Header() {
               <Nav.Link as={Link} to="/">Services</Nav.Link>
               <Nav.Link as={Link} to="/shop">Shop</Nav.Link>
               <Nav.Link as={Link} to="/bridal">Bridal</Nav.Link>
-              <Nav.Link as={Link} to="/runway-rewards">Runway Rewards</Nav.Link>
+              <Nav.Link as={Link} to="/RunwayRewads">Runway Rewards</Nav.Link>
               <Nav.Link as={Link} to="/offer">Offer</Nav.Link>
               <Nav.Link as={Link} to="/french">Franchise</Nav.Link>
               <Nav.Link as={Link} to="/locator">Salon Locator</Nav.Link>
