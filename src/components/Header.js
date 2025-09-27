@@ -24,7 +24,7 @@
 //   const handleShow = () => setShow(true);
 
 //   return (
-//     <div className='fixed-top header'>
+//     <div className=' header'>
 
 //       {/* Top promo banner */}
 //       <div className='box text-center p-2 bg-light border-bottom'>
